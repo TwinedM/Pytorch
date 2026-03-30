@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+dataset/
+*.csv
+
+# Models
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# all csv files
+*.csv
+
+fashionmnist
